@@ -20,6 +20,8 @@ class ChallengeAttemptController {
     private final ChallengeService challengeService;
 
     @PostMapping
+    @CrossOrigin(value = "http://localhost:3000", methods = {RequestMethod.OPTIONS,
+            RequestMethod.POST, RequestMethod.GET})
     ResponseEntity<ChallengeAttempt> postResult(
             @RequestBody @Valid ChallengeAttemptDTO challengeAttemptDTO) {
         return ResponseEntity.ok(challengeService.verifyAttempt(challengeAttemptDTO));
