@@ -3,7 +3,7 @@ import './App.css';
 import ChallengeComponent from './components/ChallengeComponent';
 
 function App() {
-    return <ChallengeComponent/>;
+    return <h1>Hello</h1>;
 }
 
 export default App;

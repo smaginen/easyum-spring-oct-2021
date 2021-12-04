@@ -1,0 +1,6 @@
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/factory-bean-4/src/main/java/com/easyum/spring/service/TransferService.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/factory-bean-4/src/main/java/com/easyum/spring/repository/AccountRepositoryFactoryBean.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/factory-bean-4/src/main/java/com/easyum/spring/config/AppConfig.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/factory-bean-4/src/main/java/com/easyum/spring/repository/IAccountRepository.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/factory-bean-4/src/main/java/com/easyum/spring/repository/AccountRepository.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/factory-bean-4/src/main/java/com/easyum/spring/FactoryBeanDemo.java

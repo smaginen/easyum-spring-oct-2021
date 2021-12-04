@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="JSX" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson-3/multiplication-service-4/multiplication/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson-3/multiplication-service-4/gamification/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson-4/spring-cloud/reservation-business-services/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson-4/spring-cloud/guest-services/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson-4/spring-cloud/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson-4/spring-cloud/reservation-services/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson-4/spring-cloud/reservation-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson-4/spring-cloud/room-services/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson-4/spring-cloud/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson-7/gamification/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson-7/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson-7/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson-7/social-multiplication/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/factory-bean-4/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson-2/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/multiplicaiton-service-3/pom.xml" />
+        <option value="$PROJECT_DIR$/multiplication-service-2/pom.xml" />
+        <option value="$PROJECT_DIR$/multiplication-service-4/pom.xml" />
+        <option value="$PROJECT_DIR$/multiplication-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-intro/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

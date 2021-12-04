@@ -1,0 +1,4 @@
+com/easyum/spring/bean/MyBean.class
+com/easyum/spring/test/Main.class
+com/easyum/spring/scope/MyThreadScope.class
+com/easyum/spring/scope/MyThreadScope$1.class

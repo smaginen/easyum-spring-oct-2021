@@ -1,0 +1,10 @@
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-dependency-injection-code-3/src/main/java/com/easyum/spring/repository/jdbc/JdbcTransferRepository.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-dependency-injection-code-3/src/main/java/com/easyum/spring/repository/jdbc/JdbcAccountRepository.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-dependency-injection-code-3/src/main/java/com/easyum/spring/service/TransferService.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-dependency-injection-code-3/src/main/java/com/easyum/spring/config/AppConfig.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-dependency-injection-code-3/src/main/java/com/easyum/spring/model/Account.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-dependency-injection-code-3/src/main/java/com/easyum/spring/model/Amount.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-dependency-injection-code-3/src/main/java/com/easyum/spring/TransferMain.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-dependency-injection-code-3/src/main/java/com/easyum/spring/service/TransferServiceImpl.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-dependency-injection-code-3/src/main/java/com/easyum/spring/repository/AccountRepository.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-dependency-injection-code-3/src/main/java/com/easyum/spring/repository/TransferRepository.java

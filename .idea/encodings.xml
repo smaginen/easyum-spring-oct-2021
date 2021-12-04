@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/lesson-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-2/aspect-6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-2/common-design-patterns-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-2/custom-bean-scope-5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-2/factory-bean-4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-2/jdbc-7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-2/multiplication-service-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-2/multiplication-service-3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-2/multiplication-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-2/orm-8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-2/spring-dependency-injection-code-3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-2/spring-intro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-3/multiplication-service-4/gamification/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-3/multiplication-service-4/multiplication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-4/spring-cloud/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-4/spring-cloud/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-4/spring-cloud/guest-services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-4/spring-cloud/reservation-business-services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-4/spring-cloud/reservation-services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-4/spring-cloud/reservation-webapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-4/spring-cloud/room-services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-7/gamification/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-7/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-7/gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-7/multiplication-webapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-7/multiplication-webapp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-7/service-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-7/service-registry/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-7/social-multiplication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson-7/social-multiplication/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

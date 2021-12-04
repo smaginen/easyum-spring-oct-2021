@@ -1,0 +1,15 @@
+com/easyum/multiplication/challenge/model/ChallengeAttemptDTO.class
+com/easyum/multiplication/challenge/controller/ChallengeAttemptController.class
+com/easyum/multiplication/MultiplicationApplication.class
+com/easyum/multiplication/challenge/service/ChallengeServiceImpl.class
+com/easyum/multiplication/challenge/service/ChallengeGeneratorService.class
+com/easyum/multiplication/challenge/model/ChallengeAttempt.class
+com/easyum/multiplication/configuration/JsonConfiguration.class
+com/easyum/multiplication/challenge/controller/ChallengeController.class
+com/easyum/multiplication/user/User.class
+com/easyum/multiplication/configuration/WebConfiguration.class
+com/easyum/multiplication/user/UserRepository.class
+com/easyum/multiplication/challenge/repository/ChallengeAttemptRepository.class
+com/easyum/multiplication/challenge/service/ChallengeService.class
+com/easyum/multiplication/challenge/service/ChallengeGeneratorServiceImpl.class
+com/easyum/multiplication/challenge/model/Challenge.class

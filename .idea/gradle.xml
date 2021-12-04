@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lesson-8-spring-cloud/spring-cloud" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.2/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lesson-8-spring-cloud/spring-cloud" />
+            <option value="$PROJECT_DIR$/lesson-8-spring-cloud/spring-cloud/account-service" />
+            <option value="$PROJECT_DIR$/lesson-8-spring-cloud/spring-cloud/bill-service" />
+            <option value="$PROJECT_DIR$/lesson-8-spring-cloud/spring-cloud/config-service" />
+            <option value="$PROJECT_DIR$/lesson-8-spring-cloud/spring-cloud/deposit-service" />
+            <option value="$PROJECT_DIR$/lesson-8-spring-cloud/spring-cloud/gateway" />
+            <option value="$PROJECT_DIR$/lesson-8-spring-cloud/spring-cloud/notification-service" />
+            <option value="$PROJECT_DIR$/lesson-8-spring-cloud/spring-cloud/registry" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

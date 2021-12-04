@@ -1,0 +1,5 @@
+com/easyum/aspect/service/TransferService.class
+com/easyum/aspect/config/AppConfig.class
+com/easyum/aspect/AspectDemo.class
+com/easyum/aspect/aspect/Auditing.class
+com/easyum/aspect/service/TransferServiceImpl.class

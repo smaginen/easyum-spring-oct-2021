@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.12/48e4e5d60309ebd833bc528dcf77668eab3cd72c/lombok-1.18.12.jar" />
+        </processorPath>
+        <module name="spring-cloud-microservices.account-service.main" />
+        <module name="spring-cloud-microservices.deposit-service.test" />
+        <module name="spring-cloud-microservices.notification-service.test" />
+        <module name="spring-cloud-microservices.account-service.test" />
+        <module name="spring-cloud-microservices.notification-service.main" />
+        <module name="spring-cloud-microservices.deposit-service.main" />
+        <module name="spring-cloud-microservices.bill-service.main" />
+        <module name="spring-cloud-microservices.bill-service.test" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="aspect-6" options="" />
+      <module name="common-design-patterns-2" options="" />
+      <module name="custom-bean-scope-5" options="" />
+      <module name="factory-bean-4" options="" />
+      <module name="gamification" options="-parameters" />
+      <module name="jdbc-7" options="" />
+      <module name="lesson-1" options="" />
+      <module name="multiplication" options="-parameters" />
+      <module name="multiplication-service" options="-parameters" />
+      <module name="multiplication-service-2" options="-parameters" />
+      <module name="multiplication-service-3" options="-parameters" />
+      <module name="orm-8" options="" />
+      <module name="spring-dependency-injection-code-3" options="" />
+      <module name="spring-intro" options="" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+com/easyum/multiplication/challenge/ChallengeAttempt.class
+com/easyum/multiplication/challenge/ChallengeGeneratorServiceImpl.class
+com/easyum/multiplication/user/User.class
+com/easyum/multiplication/challenge/ChallengeAttemptDTO.class
+com/easyum/multiplication/challenge/ChallengeAttemptController.class
+com/easyum/multiplication/challenge/ChallengeController.class
+com/easyum/multiplication/challenge/ChallengeGeneratorService.class
+com/easyum/multiplication/challenge/ChallengeServiceImpl.class
+com/easyum/multiplication/challenge/ChallengeService.class
+com/easyum/multiplication/MultiplicationApplication.class
+com/easyum/multiplication/challenge/Challenge.class

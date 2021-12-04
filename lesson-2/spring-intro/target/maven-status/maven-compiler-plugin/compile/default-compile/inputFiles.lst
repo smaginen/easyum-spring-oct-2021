@@ -1,0 +1,12 @@
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-intro/src/main/java/com/easyum/intro/bankapp/model/Account.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-intro/src/main/java/com/easyum/intro/bankapp/service/TransferServiceImpl.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-intro/src/main/java/com/easyum/intro/bankapp/repository/jdbc/JdbcAccountRepository.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-intro/src/main/java/com/easyum/intro/bankapp/config/AppConfig.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-intro/src/main/java/com/easyum/intro/bankapp/repository/AccountRepository.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-intro/src/main/java/com/easyum/intro/bankapp/TransferMain.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-intro/src/main/java/com/easyum/intro/bankapp/repository/jdbc/JdbcTransferRepository.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-intro/src/main/java/com/easyum/intro/bankapp/repository/jpa/JpaTransferRepository.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-intro/src/main/java/com/easyum/intro/bankapp/repository/TransferRepository.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-intro/src/main/java/com/easyum/intro/bankapp/model/Amount.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-intro/src/main/java/com/easyum/intro/bankapp/aspect/LoggingAspect.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/spring-intro/src/main/java/com/easyum/intro/bankapp/service/TransferService.java

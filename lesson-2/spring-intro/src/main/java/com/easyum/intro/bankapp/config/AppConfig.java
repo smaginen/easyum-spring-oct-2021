@@ -20,7 +20,6 @@ import java.util.Collection;
 @EnableAspectJAutoProxy
 public class AppConfig {
 
-	
 	@Bean
 	@Qualifier("transferService1")
 	public TransferService transferService1(@Autowired AccountRepository accountRepository,

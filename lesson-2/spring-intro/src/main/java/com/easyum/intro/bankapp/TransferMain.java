@@ -12,7 +12,7 @@ public class TransferMain {
 		//Load Spring context
 		ConfigurableApplicationContext applicationContext = new AnnotationConfigApplicationContext(AppConfig.class);
 		//Get TransferService bean
-		TransferService transferService = applicationContext.getBean(TransferService.class);
+		TransferService transferService = (TransferService) applicationContext.getBean("transferService1");
 		//Use transfer method
 		transferService.transferAmmount(100l, 200l, new Amount(2000.0));
 		applicationContext.close();

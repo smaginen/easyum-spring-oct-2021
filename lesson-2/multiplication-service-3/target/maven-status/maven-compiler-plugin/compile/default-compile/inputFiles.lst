@@ -1,0 +1,15 @@
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/multiplication-service-3/src/main/java/com/easyum/multiplication/user/User.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/multiplication-service-3/src/main/java/com/easyum/multiplication/challenge/controller/ChallengeAttemptController.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/multiplication-service-3/src/main/java/com/easyum/multiplication/challenge/service/ChallengeGeneratorServiceImpl.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/multiplication-service-3/src/main/java/com/easyum/multiplication/MultiplicationApplication.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/multiplication-service-3/src/main/java/com/easyum/multiplication/challenge/repository/ChallengeAttemptRepository.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/multiplication-service-3/src/main/java/com/easyum/multiplication/challenge/model/Challenge.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/multiplication-service-3/src/main/java/com/easyum/multiplication/challenge/service/ChallengeService.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/multiplication-service-3/src/main/java/com/easyum/multiplication/challenge/service/ChallengeGeneratorService.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/multiplication-service-3/src/main/java/com/easyum/multiplication/challenge/model/ChallengeAttemptDTO.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/multiplication-service-3/src/main/java/com/easyum/multiplication/challenge/controller/ChallengeController.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/multiplication-service-3/src/main/java/com/easyum/multiplication/configuration/JsonConfiguration.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/multiplication-service-3/src/main/java/com/easyum/multiplication/challenge/model/ChallengeAttempt.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/multiplication-service-3/src/main/java/com/easyum/multiplication/configuration/WebConfiguration.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/multiplication-service-3/src/main/java/com/easyum/multiplication/challenge/service/ChallengeServiceImpl.java
+/Users/evgenijsmagin/IdeaProjects/easyum-spring-oct-2021/lesson-2/multiplication-service-3/src/main/java/com/easyum/multiplication/user/UserRepository.java
