@@ -1,5 +1,5 @@
 FROM openjdk:8-jdk-alpine
-EXPOSE 8082
+EXPOSE 8080
 COPY build/libs/bill-service-1.0-SNAPSHOT.jar .
 RUN apk add --no-cache bash
 COPY wait-for.sh /wait-for.sh

@@ -1,0 +1,2 @@
+- https://stackoverflow.com/questions/34593127/manifest-mf-difference-between-main-class-and-start-class 
+- https://docs.docker.com/compose/compose-file/compose-file-v3/#restart

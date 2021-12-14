@@ -26,7 +26,7 @@ public class UserController {
         return userService.getAllUsers();
     }
 
-    @GetMapping("/customers")
+        @GetMapping("/customers")
     public List<Customer> getUsersByName(@RequestParam("name") String name){
         return userService.getAllByNameContains(name);
     }
